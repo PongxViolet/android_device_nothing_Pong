@@ -18,3 +18,6 @@
 
 # Vibrator
 /dev/aw86927_haptic                            u:object_r:aac_richtap_device:s0
+
+# Powershare
+/vendor/bin/hw/vendor\.lineage\.powershare@1\.0-service\.nothing                   u:object_r:hal_lineage_powershare_default_exec:s0
