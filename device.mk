@@ -179,6 +179,10 @@ PRODUCT_PACKAGES += \
     android.hardware.drm@1.4.vendor \
     android.hardware.drm-service.clearkey
 
+# Elixir Glyph for Phone(2)
+PRODUCT_PACKAGES += \
+    ElixirGlyphPhone2
+
 # Fingerprint
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.3-service.nothing
