@@ -1,0 +1,5 @@
+device/nothing
+vendor/nothing
+kernel/nothing
+hardware/qcom-caf/sm8450/display
+vendor/qcom/opensource/vibrator
